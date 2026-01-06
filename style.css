@@ -14,7 +14,7 @@ body {
    TOP RED BAR
    ============================ */
 .top-bar {
-    background: #005a8b;
+    background: #8b0000;
     height: 12px;
     width: 100%;
 }
@@ -23,7 +23,7 @@ body {
    SIMPLE LINK BAR
    ============================ */
 .simple-links {
-    background: #002c5e;
+    background: #5e0000;
     padding: 10px 20px;
     text-align: left;
 }
