@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://axowastaken.github.io/ASR-Website/index.html
